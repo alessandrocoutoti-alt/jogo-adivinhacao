@@ -23,6 +23,17 @@ Para rodar o jogo, você só precisa ter o **Python 3** instalado em sua máquin
 
 ---
 
+## 📋 Exemplo de Uso
+
+Digite um número entre 1 e 100: 50
+Mais baixo!
+Digite um número entre 1 e 100: 25
+Mais alto!
+Digite um número entre 1 e 100: 37
+Parabéns! Você acertou em 3 tentativas!
+
+---
+
 ## 💻 Como Rodar o Jogo
 
 1. Abra o terminal ou prompt de comando na pasta do projeto.
@@ -41,3 +52,13 @@ python jogo.py
 - **Python 3**
 - Biblioteca nativa `random` para geração de números aleatórios.
 - Tratamento de exceções com `try/except` para garantir que o jogo não trave caso você digite uma letra ou caractere inválido.
+
+ ---
+
+## 📚 O que Pratiquei
+
+- Loops (`while`) com condição de parada
+- Módulo `random` para gerar números aleatórios
+- Tratamento de exceções (`try/except`)
+- Uso do `else` em loops `while` (executa só se o loop terminar sem `break`)
+- Operador de incremento (`+=`)
